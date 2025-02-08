@@ -1,1 +1,2 @@
 # myeasyapi
+uv + FastAPI + Docker
